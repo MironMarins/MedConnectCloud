@@ -1,0 +1,4 @@
+{
+    "appService.preDeployTask": "package:medconnect",
+    "appService.deploySubpath": "target/medconnect-0.0.1-SNAPSHOT.jar"
+}
