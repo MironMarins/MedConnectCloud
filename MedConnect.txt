@@ -1,0 +1,22 @@
+
+A MedConnect é um sistema de recomendação do produtos farmaceuticos.
+
+Ela conta com um sistema de recomendação hibrida que utilisa tão um sistema de recomendação colaborativo
+
+quanto um sistema de recomendação baseado em conteudo para recomendar para nossos cliente os produtos
+
+com as notas mais altas baseados pessoas com perfis semelhantes a ela: porte fisico semelhando, idade
+
+idade proxima, até meus histórico medico semelhante.
+
+Assim evitando a susgestão de um produto que possivelmente prejudicaria nosso cliente.
+
+E não apenas isso mas tambem sugerir produtos que possivelte complemente outro
+
+ex: cliente comprou protetor solar? talves ele não goste tambem de adiquirir um óculos escuro.
+
+Sistemas de recomendações são usado gigantes do mundo das vendas e entretenimento, youtube, amazon, netflix, etc...
+
+Bilhões são feitos por vendas recomendadas em sites de vendas como shopi e mercado livre, sendo assim o melhor
+
+a que nossa empresa adquira um para si ou aceitar o fato de que por melhor que estejam suas vendas, ela poderiam ser melhores     
