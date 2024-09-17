@@ -1,0 +1,12 @@
+﻿@model ApplicationCP2.Models.Produto
+
+<h2>Confirmar Exclusão</h2>
+
+<p>Você tem certeza que deseja excluir o produto:</p>
+<p><strong>Nome:</strong> @Model.NOME</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="IDPRODUTO" />
+    <button type="submit" class="btn btn-danger">Confirmar Exclusão</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

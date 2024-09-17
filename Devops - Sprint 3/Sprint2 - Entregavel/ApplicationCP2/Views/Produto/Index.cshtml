@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ApplicationCP2.Models.Produto>
+
+<h2>Lista de Produtos</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nome</th>
+                <th>Preço</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var produto in Model)
+            {
+                <tr>
+                    <td>@produto.IDPRODUTO</td>
+                    <td>@produto.NOME</td>
+                    <td>@produto.VALOR.ToString("C")</td>
+                    <td>
+                        <a asp-action="Detalhes" asp-route-id="@produto.IDPRODUTO">Detalhes</a> |
+                        <a asp-action="Edit" asp-route-id="@produto.IDPRODUTO">Editar</a> |
+                        <a asp-action="Delete" asp-route-id="@produto.IDPRODUTO">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Não há produtos cadastrados.</p>
+}
+
+<a asp-action="Create" class="btn btn-primary">Novo Produto</a>

@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\cliente\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\cliente\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\cliente\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\loja\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\loja\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\produto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\produto\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\produto\\detalhes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\produto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\produto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\views\\produto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|d:\\mundo do miron\\mundo do miron\\fiap\\devopssprint3\\dotnet - sprint 2\\sprint2 - entregavel\\applicationcp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{707D975A-5279-48B7-B418-EC5217C54378}|ApplicationCP2\\ApplicationCP2.csproj|solutionrelative:applicationcp2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Models\\Cliente.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Models\\Cliente.cs",
+              "RelativeToolTip": "ApplicationCP2\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:04:59.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Cliente\\Edit.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Edit.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Cliente\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwEoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:58:30.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:58:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ApplicationCP2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:07:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ApplicationCP2\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:05:49.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Cliente\\Delete.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Delete.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Cliente\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:13:17.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Create.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Cliente\\Create.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Cliente\\Create.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Cliente\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T04:11:33.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Loja\\Create.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Loja\\Create.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Loja\\Create.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Loja\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:58:11.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Produto\\Index.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Index.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Produto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:26:03.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Detalhes.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Detalhes.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Produto\\Detalhes.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Detalhes.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Produto\\Detalhes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:25:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Controllers\\ProdutoController.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "ApplicationCP2\\Controllers\\ProdutoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:24:17.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Models\\Produto.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Models\\Produto.cs",
+              "RelativeToolTip": "ApplicationCP2\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:24:16.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Produto\\Delete.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Delete.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Produto\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:25:28.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Produto\\Edit.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Edit.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Produto\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:25:55.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Create.cshtml",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Views\\Produto\\Create.cshtml",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Views\\Produto\\Create.cshtml",
+              "RelativeToolTip": "ApplicationCP2\\Views\\Produto\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:25:12.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApplicationCP2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:32:46.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Program.cs",
+              "RelativeDocumentMoniker": "ApplicationCP2\\Program.cs",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\Program.cs",
+              "RelativeToolTip": "ApplicationCP2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T03:42:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\appsettings.json",
+              "RelativeDocumentMoniker": "ApplicationCP2\\appsettings.json",
+              "ToolTip": "D:\\mundo do miron\\mundo do miron\\fiap\\devopsSprint3\\dotNet - Sprint 2\\Sprint2 - Entregavel\\ApplicationCP2\\appsettings.json",
+              "RelativeToolTip": "ApplicationCP2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-07T03:42:44.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
